@@ -1,0 +1,15 @@
+#=======================
+# MOONHUNTER.NET
+#=======================
+
+BB_period = 300
+BB_sma = 100
+
+# 1800 = 30 mins
+SMA_period = 1800
+SMA_1 = 20
+SMA_2 = 5
+
+EMA_period = 1800
+EMA_1 = 20
+EMA_2 = 5

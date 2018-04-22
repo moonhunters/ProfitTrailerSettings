@@ -1,0 +1,15 @@
+#=======================
+# MOONHUNTER.NET
+#=======================
+
+# DCA SUPER-BULL
+
+# use LOWBB much better for SuperBull
+buy_strategy = LOWBB
+buy_value = 0
+buy_trigger = -1
+
+
+stop_loss_trigger = 0
+pending_order_wait_time = 0
+ignore_sell_only_mode = true

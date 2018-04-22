@@ -1,0 +1,18 @@
+#=======================
+# MOONHUNTER.NET
+#=======================
+
+# DCA STRONG-BEAR
+
+# use SMAGAIN much better for strongBear
+buy_strategy = SMAGAIN
+
+# -1.88 use value of Super-Bear to prevent strong dip
+buy_value = -1.48
+
+# Lower it down to reduce number of dca
+buy_trigger = -1.99
+
+stop_loss_trigger = 0
+pending_order_wait_time = 0
+ignore_sell_only_mode = true

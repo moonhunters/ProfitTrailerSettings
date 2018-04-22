@@ -1,0 +1,7 @@
+#=======================
+# MOONHUNTER.NET
+#=======================
+
+ALL_pending_order_wait_time = 0
+ALL_combined_cancel_pending_trigger = 0.1
+#ALL_hidden_pairs = BNBBTC
