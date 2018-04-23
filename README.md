@@ -21,23 +21,25 @@
 
 
 ## Instruction to setup Telegram bot
-* create bot token: in Telegram, add @BotFather and talk to him. Choose /newbot to create new bot, and follow its instruction.
-bot token looks like this : 999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+#### 1. create bot token: 
+* in Telegram, add @BotFather and talk to him. Choose /newbot to create new bot, and follow its instruction.
+* bot token should look like this : 999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-* get your Telegram chat id: in Telegram, add @MyTelegramID_bot to get your Telegram chat id
-your Telegram chat id looks like this: 888888888
+#### 2. get your Telegram chat id: 
+* get your Telegram chat id: in Telegram, add @MyTelegramID_bot to get your Telegram chat id.
+* your Telegram chat id should look like this: 888888888
 
-* for ProfitTrailer v1.2.6.25, edit application.properties
-telegram.botToken = your bot token
-telegram.chatId = your Telegram chat id
+#### 3. add them to application.properties (for ProfitTrailer v1.2.6.25)
+* telegram.botToken = your bot token
+* telegram.chatId = your Telegram chat id
 
-* for ProfitTrailer v2.x, edit application.properties
-telegram.bot_token_1 = your bot token
-telegram.chat_1 = your Telegram chat id
+#### 4. add them to application.properties (for ProfitTrailer v2.x)
+* telegram.bot_token_1 = your bot token
+* telegram.chat_1 = your Telegram chat id
 
-* for PTFeeder, edit hostsettings.json
-"TelegramBotId": "your bot token",
-"TelegramChatId": "your Telegram chat id",
+#### 5. add them to hostsettings.json (for PTFeeder)
+* "TelegramBotId": "your bot token",
+* "TelegramChatId": "your Telegram chat id",
 	
 
 
