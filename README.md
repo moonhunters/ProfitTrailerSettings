@@ -1,6 +1,26 @@
 # MoonHunter.net
 
-## Instruction to setup PT v1.2.6.25 and PTFeeder v1.4.0
+## Instruction to setup VERSION 2 (PT v2.x and PTFeeder v1.5.x)
+
+#### 1. ProfitTrailer v2.x
+* download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v2.x, the latest one)
+* install instruction at https://wiki.profittrailer.com/doku.php?id=windows_guide
+* update application.properties at https://wiki.profittrailer.com/doku.php?id=application.properties
+* read PT 2.x wiki at https://wiki.profittrailer.com/doku.php
+
+
+#### 2. PTFeeder v1.5.x
+* download PTFeeder at https://github.com/mehtadone/PTFeeder/releases (get v1.5.x, the latest one)
+* install instruction at https://wiki.ptfeeder.co/installation.html
+* update hostsetting.json at https://wiki.ptfeeder.co/configuration.html#hostsettings-json
+* read PTFeeder 1.5.x wiki at https://wiki.ptfeeder.co
+
+
+#### 3. PTFeeder settings for version 2
+* https://github.com/moonhunters/ProfitTrailerSettings/tree/master/Version%202/PTFeeder
+
+
+## Instruction to setup VERSION 1 (PT v1.2.6.25 and PTFeeder v1.4.0)
 
 #### 1. ProfitTrailer v1.2.6.25
 * download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v1.2.6.25, not the latest one)
