@@ -1,6 +1,6 @@
 # MoonHunter.net
 
-## Instruction to setup VERSION 2 (PT v2.x and PTFeeder v1.5.x)
+## A. Instruction to setup VERSION 2 (PT v2.x and PTFeeder v1.5.x)
 
 #### 1. ProfitTrailer v2.x
 * download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v2.x, the latest one)
@@ -20,7 +20,7 @@
 * https://github.com/moonhunters/ProfitTrailerSettings/tree/master/Version%202/PTFeeder
 
 
-## Instruction to setup VERSION 1 (PT v1.2.6.25 and PTFeeder v1.4.0)
+## B. Instruction to setup VERSION 1 (PT v1.2.6.25 and PTFeeder v1.4.0)
 
 #### 1. ProfitTrailer v1.2.6.25
 * download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v1.2.6.25, not the latest one)
@@ -40,7 +40,7 @@
 * https://github.com/moonhunters/ProfitTrailerSettings/tree/master/Version%201/PTFeeder
 
 
-## Instruction to setup Telegram bot
+## C. Instruction to setup Telegram bot
 #### 1. create bot token: 
 * in Telegram, add @BotFather and talk to him. Choose /newbot to create new bot, and follow its instruction.
 * bot token should look like this : 999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -63,7 +63,7 @@
 	
 
 
-## Useful links
+## D. Useful links
 
 #### 1. ProfitTrailer: https://profittrailer.com/pt/buy/
 
