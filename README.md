@@ -1,8 +1,10 @@
 # MoonHunter.net
 
+
 ## A. Instruction to setup VERSION 2 (PT v2.x and PTFeeder v1.5.x)
 
 #### 1. ProfitTrailer v2.x
+* activate ProfitTrailer license at https://wiki.profittrailer.com/doku.php?id=pt_assistant
 * download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v2.x, the latest one)
 * install instruction at https://wiki.profittrailer.com/doku.php?id=windows_guide
 * update application.properties at https://wiki.profittrailer.com/doku.php?id=application.properties
@@ -20,9 +22,17 @@
 * https://github.com/moonhunters/ProfitTrailerSettings/tree/master/Version%202/PTFeeder
 
 
+#### 4.  Tips to reduce Binance trading fee & tighten security before running the bots
+* use BNB as trading fee, always maintain a small amount of BNB in Binance
+* make sure Binance API keys are not allowed for withdrawal, and limited to run from only 1 IP address
+* in Binance, enable 2FA, setup anti-phishing code, enable whitelist for withdrawal
+* always use clean browser (no add-ons) to access Binance
+
+
 ## B. Instruction to setup VERSION 1 (PT v1.2.6.25 and PTFeeder v1.4.0)
 
 #### 1. ProfitTrailer v1.2.6.25
+* activate ProfitTrailer license at https://wiki.profittrailer.com/doku.php?id=pt_assistant
 * download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v1.2.6.25, not the latest one)
 * install instruction at https://wiki.profittrailer.com/doku.php?id=windows_guide
 * update application.properties at https://wiki.profittrailer.com/doku.php?id=application.properties1
@@ -60,7 +70,6 @@
 #### 5. add them to hostsettings.json (for PTFeeder)
 * "TelegramBotId": "your bot token",
 * "TelegramChatId": "your Telegram chat id",
-	
 
 
 ## D. Useful links
@@ -91,3 +100,16 @@
 
 #### 7. Manage Profit
 * Cointracking: https://cointracking.info?ref=L239596
+
+
+## E. Thank you for your contribution
+
+* We work everyday to improve bot settings for ourselves and friends. We aim to support our friends until they gain back the investment and are able to run the bot themselves. 
+* We do not charge any fee for support. But if you want to send us any token of appreciation, let us know :) 
+
+* Bitcoin (BTC) : 1NsESu8MJn5JdsQvucDgsPg3NWeDAJLcC
+* Ether (ETH) : 0x557327633D28a6371a78d0DBA162B3AD2712e557
+* Bitcoin Cash (BCC) : qrd9tj3298dl3fy34wtl4lqvleumsygqxuzrss3l4v
+
+
+
