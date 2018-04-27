@@ -1,0 +1,28 @@
+{
+  "Host": {
+    "ProfitTrailerFolder1": "C:\\Users\\moonhunter\\ProfitTrailer_ETH_Binance", // add your in one or more PT folders below, where ths application.properties file is. Note that windows users must add \\ in between the folders, NOT \
+	
+	"ProfitTrailerApiEndPoint1": "http://localhost:8082", // this is where the api is to be found from PT to save your settings. For example, https:\\localhost:8081
+    "HostName": "MoonHunter ETH PTF Binance", // the name that is used on telegram messages and the name of the config in PT. 
+    "LicenseKey": "PUT YOUR PTFEEDER LICENSE KEY HERE", // License key for PT Feeder
+    "ServerUrls": "http://localhost:5002", // Nothing at this website yet. Don't change the port in this line unless there's a good reason. Especially DO NOT set it to the same port as your Profit Trailer is on.
+    "MarketConditionCheckInMinutes": "20", // How often to check for changes. For binance, keep this 4 or more to avoid IP ban
+    "CalculateTrailingValues": "true", //  set to true the candles are used and the MaxTrailingBuy value will define define the cap that this value can get to. The same is true for MaxTrailingProfit
+    "VolatilityDivider ": "2", // When using CalculateTrailingValues, the default divisor of the upside or downside volatility is 2. This can be changed here
+	
+	
+	"UseMaxCostPercentage": "true", // whether cost should be as a percentage
+    "UseMinBuyBalancePercentage": "true", // whether minbuybalance should be a percentage
+    "BackupTradingFiles": "true", // PT Feeder will save a copy of the config it generates in the trading/backup directory of your ProfitTrailer directory.
+	
+	"TelegramBotId": "PUT YOUR TELEGRAM BOT ID HERE", // telegram bot id
+    "TelegramChatId": "PUT YOUR TELEGRAM CHAT ID HERE", // telegram chat id,
+    "DiscordBotToken": "", // discord bot token
+    "DiscordChatName": "", // discord channel name,
+    "TestMode": "false" // whether watchmode should be enabled or not. This sets PAIR_trading_enabled as false. 
+  },
+
+  "Serilog": {
+    "MinimumLevel": "Information" // Can be Information or Debug depending how much logging you want
+  }
+}
