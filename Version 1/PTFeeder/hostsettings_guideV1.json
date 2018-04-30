@@ -1,0 +1,22 @@
+{
+  "Host": {
+    // add your PT trading folder location in one or more of PairsLocation below. This needs to point to the "trading" folder. It needs to end with trading
+    "TrexPairsLocation": "",
+    "PoloPairsLocation": "",
+    "BinancePairsLocation": "C:\\Users\\moonhunter\\ProfitTrailer_ETH_Binance\\trading",
+    "HostName": "PTF ETH Binance", // the name that is used on telegram messages
+    "LicenseKey": "PUT YOUR LICENSE KEY FOR PTFEEDER HERE", // License key for PT Feeder
+    "ServerUrls": "http://localhost:5002", // Nothing at this website yet. Don't change the port in this line unless there's a good reason. Especially DO NOT set it to the same port as your Profit Trailer is on.
+    "MarketConditionCheckInMinutes": "20", // How often to check for changes. For binance, keep this 4 or more to avoid IP ban
+    "CalculateTrailingValues": "true", // whether PT Feeder should calculate the trading values for you
+    "UseMaxCostPercentage": "true", // whether cost should be as a percentage
+    "UseMinBuyBalancePercentage": "true", // whether minbuybalance should be a percentage
+    "TelegramBotId": "PUT TELEGRAM BOT ID HERE", // telegram bot id
+    "TelegramChatId": "PUT TELEGRAM CHAT ID HERE", // telegram chat id
+    "TestMode": "false" // whether watchmode should be enabled or not
+  },
+
+  "Serilog": {
+    "MinimumLevel": "Information" // Can be Information or Debug depending how much logging you want
+  }
+}
