@@ -8,7 +8,7 @@
 * download ProfitTrailer at https://github.com/taniman/profit-trailer/releases (get v2.x, the latest one)
 * install instruction at https://wiki.profittrailer.com/doku.php?id=windows_guide
 * update application.properties at https://wiki.profittrailer.com/doku.php?id=application.properties
-* example here: https://github.com/moonhunters/ProfitTrailerSettings/blob/master/Version%202/PT/application_guide.properties
+* example here: https://github.com/moonhunters/ProfitTrailerSettings/blob/master/Version%202/PT/application_guideV2.properties
 * read PT 2.x wiki at https://wiki.profittrailer.com/doku.php
 
 
@@ -16,7 +16,7 @@
 * download PTFeeder at https://github.com/mehtadone/PTFeeder/releases (get v1.5.x, the latest one)
 * install instruction at https://wiki.ptfeeder.co/installation.html
 * update hostsetting.json at https://wiki.ptfeeder.co/configuration.html#hostsettings-json
-* example here: https://github.com/moonhunters/ProfitTrailerSettings/blob/master/Version%202/PTFeeder/hostsettings_guide.json
+* example here: https://github.com/moonhunters/ProfitTrailerSettings/blob/master/Version%202/PTFeeder/hostsettings_guideV2.json
 * read PTFeeder 1.5.x wiki at https://wiki.ptfeeder.co
 
 
