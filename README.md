@@ -1,5 +1,32 @@
 # MoonHunter.net
 
+ProfitTrailer & PTFeeder is a strong passive-income generator that can make 0.33% -> 2% profit (on total capital) per day.
+However, in order to achieve that, you need to put a lot of effort to learn, research and adjust settings. Otherwise, you would lose badly.
+
+We have been using ProfitTrailer for quite a long time, have experiences surviving super bear times and maintain stable target profit. Our group, MoonHunter, is founded to daily do research and keep improving settings to suit the market. We have been supporting at least 50 crypto hunters and huntresses on this amazing botting journey.
+
+We wish all of you good hunting and good luck. Depends on our time, we will provide free support to you:
+* Share good and safe settings for you to research and kickstart
+* Provide consulation by direct private message through discord id: David Le (MoonHunter)#5167
+
+If you think we are helpful, please support us by buying through our links below. Let David know once you use any of our links, and we will go along with you until you get back your investment and are able to run the bot yourself.
+
+* ProfitTrailer: https://profittrailer.com/pt/buy/
+* PTFeeder:  https://cryptoprofitbot.com/?ref=moonhunter
+* Create Binance account: https://www.binance.com/?ref=20665680
+
+
+ProfitTrailer là cỗ máy kiếm tiền thụ động mạnh mẽ với khả năng cày 0.33% -> 2% lợi nhuận trên tổng vốn đầu tư / ngày. 
+Tuy nhiên, để đạt được mục tiêu lợi nhuận, bạn phải bỏ ra rất nhiều thời gian, công sức để nghiên cứu, học hỏi đều chỉnh chiến lược. Nếu không, bạn sẽ lỗ sặc gạch. 
+
+Tớ dùng ProfitTrailer cũng khá lâu, có kinh nghiệm sống sót qua vài lần thị trường đẫm máu, và duy trì được lợi nhuận đề ra đều đặn. Tớ lập ra một nhóm nghiên cứu chiến lược gọi là MoonHunter, hàng ngày theo dõi thị trường và điều chỉnh, nâng cấp chiến lược cho phù hợp với thời cuộc. Nhóm MoonHunter đã và đang hỗ trợ ít nhất 50 thợ săn tiền ảo trên thế giới, và mong muốn hỗ trợ nhiều hơn cho cộng đồng Việt Nam. 
+
+Chúc các bạn săn tiền ảo thành công và may mắn. Tùy vào điều kiện thời gian, nhóm tớ sẽ hỗ trợ các bạn:
+* Chia sẻ settings tốt, an toàn để các bạn nghiên cứu & bắt đầu 
+* Tư vấn qua Private message cho từng người, giải quyết các vấn đề liên quan đến bot.
+
+Vì bọn tớ tư vấn miễn phí, rất mong các bạn ủng hộ nhóm tớ bằng cách mua ProfitTrailer, PTFeeder hay tạo tài khoản Binance qua các link trên. Bạn nào mua qua các link trên thì PM tớ để nhận hỗ trợ VIP hơn, ít nhất cho đến khi các bạn lấy lại vốn đầu tư.
+
 
 ## A. Instruction to setup VERSION 2 (PT v2.x and PTFeeder v1.5.x)
 
