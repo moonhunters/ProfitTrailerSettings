@@ -12,7 +12,7 @@
 	util.extendGraphColumn = true; //if you set more than 10 minutes, set this to true.
 	util.drawZeroLine = true; //display line at purchase price
 	util.drawSellThreshold = true; //draw
-	util.zeroLineColor = '#0099ff'; // blue
+	util.zeroLineColor = '#33cc33'; // green
 	util.sellThresholdColor = '#33cc33'; // green
 	util.graphLineColor = '#ff3333'; // red
 
